@@ -8,7 +8,7 @@ Simple WhatsApp Bot
 > pkg install nodejs
 > pkg install ffmpeg
 > pkg install imagemagick
-> git clone https://github.com/MASTER-SHL/shl_v1.git
+> git clone https://github.com/shalithamadhuwantha/sm-bot.git
 > cd shl_v1
 > npm install
 ```

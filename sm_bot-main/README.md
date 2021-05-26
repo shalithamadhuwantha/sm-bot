@@ -1,4 +1,4 @@
-# shl_v1- bot
+# wts bot
 Simple WhatsApp Bot
 
 ### FOR TERMUX USER
@@ -21,7 +21,7 @@ Simple WhatsApp Bot
 
 ### FOR WINDOWS/VPS/RDP USER
 ```bash
-> git clone https://github.com/MASTER-SHL/shl_v1.git
+> git clone https://github.com/shalithamadhuwantha/sm-bot.git
 > cd shl_v1
 > npm install
 ```
@@ -29,8 +29,4 @@ Simple WhatsApp Bot
 ```bash
 > node index.js
 ```
- SOSMED:
- 
- Instagram: s_h_l__royalmaster
- 
- Youtube: SHL VLOG
+
